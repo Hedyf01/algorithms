@@ -1,2 +1,2 @@
 # algorithms
-data stucture &amp; algorithm
+interview coding problems, data stucture &  algorithm
