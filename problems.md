@@ -1,4 +1,5 @@
 最大期望 （Google)
+天空雨点，一段区间，多久区间长度覆盖到1米 （Google）
 
 API desgin, 文件路径，create, get, set (Airbnb)
 
